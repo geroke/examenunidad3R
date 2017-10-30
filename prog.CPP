@@ -4,7 +4,7 @@
 main(){
 int n,r;
 
-gotoxy(10,2);cout<<"hola mundo :v";
+gotoxy(10,2);cout<<"hola mundo :v adios";
 gotoxy(10,7);cout<<"dame un numero ";
 cin>>n;
 r=n%2;
